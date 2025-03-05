@@ -1,9 +1,3 @@
-//
-//  TTaskApp.swift
-//  TTask
-//
-//  Created by Aditya Ghuraiya on 05/03/25.
-//
 
 import SwiftUI
 
@@ -11,7 +5,7 @@ import SwiftUI
 struct TTaskApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RegistrationView()
         }
     }
 }
